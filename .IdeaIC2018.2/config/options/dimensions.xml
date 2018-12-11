@@ -1,0 +1,36 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="412" y="117" />
+    <location key="new project wizard.0.0.1366.768" x="203" y="0" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="686" y="333" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="378" y="186" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="488" y="78" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1366.768" x="413" y="109" />
+    <location key="Github.ShareDialog.0.0.1366.768" x="538" y="262" />
+    <location key="SettingsEditor.0.0.1366.768" x="169" y="0" />
+    <location key="Github.UntrackedFilesDialog.0.0.1366.768" x="479" y="71" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="329" y="0" />
+    <location key="Vcs.Push.Dialog.0.0.1366.768" x="359" y="91" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" x="531" y="306" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="413" y="117" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768" x="432" y="199" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="447" y="166" />
+    <location key="GitCloneDialog.0.0.1366.768" x="413" y="282" />
+    <location key="StructurePopup.0.0.1366.768" x="394" y="164" />
+    <location key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.0.0.1366.768" x="387" y="256" />
+    <location key="#Project_Structure.0.0.1366.768" x="163" y="0" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1366.768" x="447" y="94" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1366.768" x="425" y="0" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="139" y="35" />
+    <size key="new project wizard.0.0.1366.768" width="858" height="728" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1326" height="189" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1326" height="189" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1326" height="189" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1326" height="189" />
+    <size key="StructurePopup.0.0.1366.768" width="572" height="382" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1322" height="218" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1322" height="218" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1322" height="218" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1322" height="218" />
+  </component>
+</application>

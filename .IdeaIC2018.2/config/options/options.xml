@@ -1,0 +1,27 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.8259442" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="IJ_BASE_PACKAGE" value="ba.unsa.rpr.tutorijal8" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="C:/Users/Lamija pc&#10;C:/Users/Lamija pc/IdeaProjects/lamija&#10;C:/Users/Lamija pc/IdeaProjects/rpr-t7&#10;C:/Users/Lamija pc/IdeaProjects/rpr-t6&#10;C:/Users/Lamija pc/IdeaProjects/lamija-tut5&#10;C:/Program Files/Java/jdk-10.0.2&#10;C:/Users/Lamija pc/IdeaProjects/rpr-t5&#10;C:/Users/Lamija pc/rpr-zadaca1&#10;C:/Users/Lamija pc/IdeaProjects/lamija-bez-testova&#10;C:/Users/Lamija pc/Desktop/Student.png&#10;C:/Users/Lamija pc/IdeaProjects/rpr-t3-z1-master&#10;C:/Users/Lamija pc/IdeaProjects/rpr-t3-z1&#10;C:/Users/Lamija pc/IdeaProjects/rpr-t1-z2&#10;C:/Program Files/Java/jdk-11" />
+    <property name="file.gist.reindex.count" value="89" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="installed.kotlin.plugin.version" value="1.2.51-release-IJ2018.2-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="10" />
+    <property name="lastTip" value="65" />
+    <property name="project.wizard.group" value="JavaFX Application" />
+    <property name="project.wizard.template" value="JavaFX Application" />
+  </component>
+</application>
