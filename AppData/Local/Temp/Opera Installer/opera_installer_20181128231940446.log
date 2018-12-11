@@ -1,0 +1,24 @@
+[1128/231940.456:INFO:installer_main.cc(416)] Opera installer starting - version 56.0.3051.116 Stable
+[1128/231940.456:INFO:installer_main.cc(419)] Command line: "C:\Users\LAMIJA~1\AppData\Local\Temp\opera autoupdate\CUsersLamija pcAppDataLocalProgramsOpera\installing\installer.exe" --backend --install --import-browser-data=1 --enable-stats=1 --enable-installer-stats=1 --launchopera=0 --installfolder="C:\Users\Lamija pc\AppData\Local\Programs\Opera" --profile-folder --language=en --setdefaultbrowser=0 --startmenushortcut=1 --desktopshortcut=0 --quicklaunchshortcut=1 --pintotaskbar=0 --server-tracking-data=server_tracking_data --initial-pid=1492 --package-dir="C:\Users\LAMIJA~1\AppData\Local\Temp\opera autoupdate\CUsersLamija pcAppDataLocalProgramsOpera\installing" --inside-package --session-guid=481cf1a7-8ce6-420e-ba0b-e1ee24b6f129 --autoupdate --silent --wait-for-package --initial-proc-handle=B804000000000000
+[1128/231940.456:INFO:installer_main.cc(440)] Install folder from command line: C:\Users\Lamija pc\AppData\Local\Programs\Opera
+[1128/231940.456:INFO:installer_main.cc(443)] Uninstall:0
+[1128/231940.456:INFO:installer_main.cc(444)] Silent:1
+[1128/231940.456:INFO:installer_main.cc(445)] Run Immediately0
+[1128/231940.456:INFO:installer_main.cc(447)] Backend1
+[1128/231940.456:INFO:installer_main.cc(448)] Inside package1
+[1128/231940.456:INFO:installer_main.cc(449)] Autoupdate:1
+[1128/231940.466:INFO:resource_l10n_handler.cc(101)] Language not in the available languages list: 
+[1128/231940.466:INFO:resource_l10n_handler.cc(107)] Trying language from system preferred list: en-US
+[1128/231940.466:INFO:resource_l10n_handler.cc(150)] Retrying after adjustments: en-US
+[1128/231940.466:INFO:resource_l10n_handler.cc(107)] Trying language from system preferred list: en
+[1128/231940.616:INFO:settings_impl.cc(1167)] Install folder set: C:\Users\Lamija pc\AppData\Local\Programs\Opera
+[1128/231940.616:INFO:settings_impl.cc(1222)] Operation: 2
+[1128/231940.616:INFO:installer.cc(153)] Beginning installation
+[1128/231940.616:INFO:installer.cc(437)] Write privileges for install folder: 1
+[1128/231940.616:INFO:installer.cc(168)] Need to wait for actual package
+[1128/231940.616:INFO:installer.cc(198)] Package is ready
+[1128/231954.137:INFO:installer.cc(253)] Running installer from the package with command line: "C:\Users\Lamija pc\AppData\Local\Programs\Opera\56.0.3051.116\installer.exe" --backend --initial-pid=1492 --install --import-browser-data=1 --enable-stats=1 --enable-installer-stats=1 --launchopera=0 --installfolder="C:\Users\Lamija pc\AppData\Local\Programs\Opera" --profile-folder --language=en --setdefaultbrowser=0 --startmenushortcut=1 --desktopshortcut=0 --quicklaunchshortcut=1 --pintotaskbar=0 --server-tracking-data=server_tracking_data --install-subfolder=56.0.3051.116 --package-dir="C:\Users\LAMIJA~1\AppData\Local\Temp\opera autoupdate\CUsersLamija pcAppDataLocalProgramsOpera\installing" --inside-package --session-guid=481cf1a7-8ce6-420e-ba0b-e1ee24b6f129 --autoupdate --silent
+[1128/232007.909:ERROR:ipc_sender.cc(104)] Cannot write to mailslot: Reached the end of the file. (0x26)
+[1128/232007.909:INFO:installer.cc(977)] Installation succeeded
+[1128/232007.909:INFO:backend_process_installer_runner_impl.cc(136)] Installer backend exiting
+[1128/232007.909:ERROR:ipc_sender.cc(104)] Cannot write to mailslot: Reached the end of the file. (0x26)

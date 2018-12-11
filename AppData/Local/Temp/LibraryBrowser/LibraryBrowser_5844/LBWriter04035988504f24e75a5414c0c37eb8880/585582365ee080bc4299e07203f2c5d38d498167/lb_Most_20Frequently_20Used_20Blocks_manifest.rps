@@ -1,0 +1,28 @@
+<model>
+    <version>BEE7A92C9E28E15AC0419D1D454A10F1</version>
+    <node>
+        <type>PaletteImpl</type>
+        <id>1</id>
+        <properties>
+            <uniquePath>Most Frequently Used Blocks</uniquePath>
+            <path>Most Frequently Used Blocks</path>
+            <name>Most Frequently Used Blocks</name>
+            <displayName>Most Frequently Used Blocks</displayName>
+            <displayPath>Most Frequently Used Blocks</displayPath>
+            <reposDirectorySpec>585582365ee080bc4299e07203f2c5d38d498167</reposDirectorySpec>
+            <reposManifestsArchiveSpec>585582365ee080bc4299e07203f2c5d38d498167/lb_Most_20Frequently_20Used_20Blocks_manifests_repos.rps</reposManifestsArchiveSpec>
+            <reposIconsArchiveSpec>585582365ee080bc4299e07203f2c5d38d498167/lb_Most_20Frequently_20Used_20Blocks_icons_repos.rps</reposIconsArchiveSpec>
+            <productName>Most Frequently Used Blocks</productName>
+            <panelIcon>toolbox/shared/dastudio/resources/SimulinkModelIcon.png</panelIcon>
+            <isFlat>0</isFlat>
+            <isEmpty>0</isEmpty>
+            <directorySpec>Most_20Frequently_20Used_20Blocks</directorySpec>
+            <manifestFileSpec>Most_20Frequently_20Used_20Blocks/lbMost_20Frequently_20Used_20Blocksmanifest.rps</manifestFileSpec>
+            <isTopLevel>1</isTopLevel>
+            <lastModified>10:58:02.713</lastModified>
+            <fileDependencies>$#091;QzovVXNlcnMvTGFtaWphIHBjL0FwcERhdGEvUm9hbWluZy9NYXRoV29ya3MvTUFUTEFCL1IyMDEzYS9zbF9saWJyYXJ5X2Jyb3dzZXJfZmF2b3JpdGUvc2xibG9ja3MubQ==|10711451154811287405623214089042112208|1521757310|654$#093;</fileDependencies>
+            <children>$#091;simulink/Commonly Used Blocks/Gain,simulink/Math Operations/Gain,simulink/Logic and Bit Operations/Logical Operator,simulink/Commonly Used Blocks/Discrete-Time Integrator,simulink/Continuous/Integrator,simulink/Commonly Used Blocks/Mux,simulink/Commonly Used Blocks/Scope,simulink/Signal Routing,simulink/Sources/Step,simulink/Commonly Used Blocks/Sum,simulink/Continuous/Transport Delay$#093;</children>
+            <numUsages>$#091;5,4,3,2,1,1,1,1,1,1,1$#093;</numUsages>
+        </properties>
+    </node>
+</model>
