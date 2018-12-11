@@ -78,7 +78,7 @@
       <entry action="ToggleBookmarkWithMnemonic" count="1" />
       <entry action="ToggleLineBreakpoint" count="3" />
       <entry action="UnmarkRoot" count="1" />
-      <entry action="Vcs.Push" count="33" />
+      <entry action="Vcs.Push" count="34" />
       <entry action="editRunConfigurations" count="2" />
       <entry action="tooltip.actions.show.description.morelink" count="6" />
       <entry action="tooltip.actions.show.description.shortcut" count="2" />
@@ -90,7 +90,7 @@
         <counts>
           <entry key="ide.close" value="25" />
           <entry key="ide.error" value="63" />
-          <entry key="ide.freeze.10" value="5" />
+          <entry key="ide.freeze.10" value="6" />
           <entry key="ide.freeze.107" value="1" />
           <entry key="ide.freeze.11" value="8" />
           <entry key="ide.freeze.12" value="5" />
@@ -272,7 +272,7 @@
       <entry path="Run -&gt; Edit Configurations..." count="1" />
       <entry path="Run -&gt; Run..." count="1" />
       <entry path="VCS -&gt; Commit" count="37" />
-      <entry path="VCS -&gt; Git -&gt; Push..." count="33" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="34" />
       <entry path="VCS -&gt; Git -&gt; Remotes..." count="1" />
       <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="10" />
       <entry path="VCS -&gt; Import into Version Control -&gt; Import into CVS..." count="6" />
