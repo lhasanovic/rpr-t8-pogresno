@@ -2,11 +2,11 @@
   <component name="ActionsCollector">
     <counts>
       <entry action="$Delete" count="35" />
-      <entry action="$Undo" count="49" />
+      <entry action="$Undo" count="50" />
       <entry action="Actions.ActionsPlugin.GenerateToString" count="2" />
       <entry action="ActivateProjectToolWindow" count="1" />
       <entry action="CheckinFiles" count="1" />
-      <entry action="CheckinProject" count="40" />
+      <entry action="CheckinProject" count="43" />
       <entry action="ChooseRunConfiguration" count="1" />
       <entry action="CodeCompletion" count="1" />
       <entry action="Compile" count="1" />
@@ -26,7 +26,7 @@
       <entry action="EditorDownWithSelection" count="2" />
       <entry action="EditorEnter" count="446" />
       <entry action="EditorLeft" count="328" />
-      <entry action="EditorPaste" count="206" />
+      <entry action="EditorPaste" count="208" />
       <entry action="EditorRight" count="901" />
       <entry action="EditorSplitLine" count="1" />
       <entry action="EditorTab" count="14" />
@@ -78,7 +78,7 @@
       <entry action="ToggleBookmarkWithMnemonic" count="1" />
       <entry action="ToggleLineBreakpoint" count="3" />
       <entry action="UnmarkRoot" count="1" />
-      <entry action="Vcs.Push" count="26" />
+      <entry action="Vcs.Push" count="33" />
       <entry action="editRunConfigurations" count="2" />
       <entry action="tooltip.actions.show.description.morelink" count="6" />
       <entry action="tooltip.actions.show.description.shortcut" count="2" />
@@ -90,9 +90,9 @@
         <counts>
           <entry key="ide.close" value="25" />
           <entry key="ide.error" value="63" />
-          <entry key="ide.freeze.10" value="4" />
+          <entry key="ide.freeze.10" value="5" />
           <entry key="ide.freeze.107" value="1" />
-          <entry key="ide.freeze.11" value="4" />
+          <entry key="ide.freeze.11" value="8" />
           <entry key="ide.freeze.12" value="5" />
           <entry key="ide.freeze.13" value="1" />
           <entry key="ide.freeze.16" value="5" />
@@ -102,10 +102,10 @@
           <entry key="ide.freeze.2" value="1" />
           <entry key="ide.freeze.20" value="1" />
           <entry key="ide.freeze.21" value="3" />
-          <entry key="ide.freeze.22" value="3" />
-          <entry key="ide.freeze.23" value="2" />
+          <entry key="ide.freeze.22" value="4" />
+          <entry key="ide.freeze.23" value="3" />
           <entry key="ide.freeze.236" value="1" />
-          <entry key="ide.freeze.24" value="4" />
+          <entry key="ide.freeze.24" value="5" />
           <entry key="ide.freeze.25" value="1" />
           <entry key="ide.freeze.26" value="1" />
           <entry key="ide.freeze.27" value="1" />
@@ -117,11 +117,11 @@
           <entry key="ide.freeze.33" value="3" />
           <entry key="ide.freeze.34" value="1" />
           <entry key="ide.freeze.35" value="1" />
-          <entry key="ide.freeze.36" value="1" />
+          <entry key="ide.freeze.36" value="2" />
           <entry key="ide.freeze.37" value="1" />
           <entry key="ide.freeze.38" value="2" />
           <entry key="ide.freeze.39" value="1" />
-          <entry key="ide.freeze.4" value="1" />
+          <entry key="ide.freeze.4" value="2" />
           <entry key="ide.freeze.40" value="1" />
           <entry key="ide.freeze.45" value="1" />
           <entry key="ide.freeze.46" value="2" />
@@ -133,8 +133,8 @@
           <entry key="ide.freeze.60" value="1" />
           <entry key="ide.freeze.65" value="1" />
           <entry key="ide.freeze.7" value="20" />
-          <entry key="ide.freeze.8" value="14" />
-          <entry key="ide.freeze.9" value="21" />
+          <entry key="ide.freeze.8" value="15" />
+          <entry key="ide.freeze.9" value="22" />
           <entry key="ide.freeze.99" value="1" />
           <entry key="ide.start" value="40" />
         </counts>
@@ -271,8 +271,8 @@
       <entry path="Run -&gt; Debug" count="1" />
       <entry path="Run -&gt; Edit Configurations..." count="1" />
       <entry path="Run -&gt; Run..." count="1" />
-      <entry path="VCS -&gt; Commit" count="34" />
-      <entry path="VCS -&gt; Git -&gt; Push..." count="26" />
+      <entry path="VCS -&gt; Commit" count="37" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="33" />
       <entry path="VCS -&gt; Git -&gt; Remotes..." count="1" />
       <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="10" />
       <entry path="VCS -&gt; Import into Version Control -&gt; Import into CVS..." count="6" />
@@ -296,10 +296,10 @@
       <entry shortcut="Ctrl+F12" count="3" />
       <entry shortcut="Ctrl+S" count="3" />
       <entry shortcut="Ctrl+Space" count="1" />
-      <entry shortcut="Ctrl+V" count="206" />
+      <entry shortcut="Ctrl+V" count="208" />
       <entry shortcut="Ctrl+X" count="7" />
       <entry shortcut="Ctrl+Y" count="47" />
-      <entry shortcut="Ctrl+Z" count="49" />
+      <entry shortcut="Ctrl+Z" count="50" />
       <entry shortcut="Delete" count="28" />
       <entry shortcut="Down" count="1106" />
       <entry shortcut="Enter" count="666" />
