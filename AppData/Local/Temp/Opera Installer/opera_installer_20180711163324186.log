@@ -1,0 +1,24 @@
+[0711/163324.186:INFO:installer_main.cc(389)] Opera installer starting - version 54.0.2952.51 Stable
+[0711/163324.186:INFO:installer_main.cc(392)] Command line: "C:\Users\LAMIJA~1\AppData\Local\Temp\opera autoupdate\CUsersLamija pcAppDataLocalProgramsOpera\installing\installer.exe" --backend --install --import-browser-data=1 --enable-stats=1 --enable-installer-stats=1 --launchopera=0 --installfolder="C:\Users\Lamija pc\AppData\Local\Programs\Opera" --profile-folder --language=en --setdefaultbrowser=0 --startmenushortcut=1 --desktopshortcut=0 --quicklaunchshortcut=1 --pintotaskbar=0 --server-tracking-data=server_tracking_data --initial-pid=5796 --crash-reporter-pid=4376 --package-dir="C:\Users\LAMIJA~1\AppData\Local\Temp\opera autoupdate\CUsersLamija pcAppDataLocalProgramsOpera\installing" --inside-package --session-guid=09604173-0712-4956-82c4-15e17fd6a1da --autoupdate --silent --wait-for-package --initial-proc-handle=D404000000000000
+[0711/163324.186:INFO:installer_main.cc(408)] Install folder from command line: C:\Users\Lamija pc\AppData\Local\Programs\Opera
+[0711/163324.186:INFO:installer_main.cc(411)] Uninstall:0
+[0711/163324.186:INFO:installer_main.cc(412)] Silent:1
+[0711/163324.186:INFO:installer_main.cc(413)] Run Immediately0
+[0711/163324.186:INFO:installer_main.cc(415)] Backend1
+[0711/163324.186:INFO:installer_main.cc(416)] Inside package1
+[0711/163324.186:INFO:installer_main.cc(417)] Autoupdate:1
+[0711/163324.186:INFO:resource_l10n_handler.cc(101)] Language not in the available languages list: 
+[0711/163324.186:INFO:resource_l10n_handler.cc(107)] Trying language from system preferred list: en-US
+[0711/163324.186:INFO:resource_l10n_handler.cc(150)] Retrying after adjustments: en-US
+[0711/163324.186:INFO:resource_l10n_handler.cc(107)] Trying language from system preferred list: en
+[0711/163324.311:INFO:settings_impl.cc(1145)] Install folder set: C:\Users\Lamija pc\AppData\Local\Programs\Opera
+[0711/163324.311:INFO:settings_impl.cc(1197)] Operation: 2
+[0711/163324.311:INFO:installer.cc(157)] Beginning installation
+[0711/163324.311:INFO:installer.cc(461)] Write privileges for install folder: 1
+[0711/163324.311:INFO:installer.cc(172)] Need to wait for actual package
+[0711/163324.311:INFO:installer.cc(201)] Package is ready
+[0711/163347.051:INFO:installer.cc(256)] Running installer from the package with command line: "C:\Users\Lamija pc\AppData\Local\Programs\Opera\54.0.2952.51\installer.exe" --backend --initial-pid=5796 --install --import-browser-data=1 --enable-stats=1 --enable-installer-stats=1 --launchopera=0 --installfolder="C:\Users\Lamija pc\AppData\Local\Programs\Opera" --profile-folder --language=en --setdefaultbrowser=0 --startmenushortcut=1 --desktopshortcut=0 --quicklaunchshortcut=1 --pintotaskbar=0 --server-tracking-data=server_tracking_data --crash-reporter-pid=5316 --install-subfolder=54.0.2952.51 --package-dir="C:\Users\LAMIJA~1\AppData\Local\Temp\opera autoupdate\CUsersLamija pcAppDataLocalProgramsOpera\installing" --inside-package --session-guid=09604173-0712-4956-82c4-15e17fd6a1da --autoupdate --silent
+[0711/163353.623:ERROR:ipc_sender.cc(104)] Cannot write to mailslot: Reached the end of the file. (0x26)
+[0711/163353.638:INFO:installer.cc(978)] Installation succeeded
+[0711/163353.638:INFO:backend_process_installer_runner_impl.cc(134)] Installer backend exiting
+[0711/163353.638:ERROR:ipc_sender.cc(104)] Cannot write to mailslot: Reached the end of the file. (0x26)

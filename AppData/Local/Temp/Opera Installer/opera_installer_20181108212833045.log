@@ -1,0 +1,32 @@
+[1108/212833.047:INFO:installer_main.cc(408)] Opera installer starting - version 56.0.3051.99 Stable
+[1108/212833.047:INFO:installer_main.cc(411)] Command line: "C:\Users\Lamija pc\AppData\Local\Programs\Opera\56.0.3051.99\installer.exe" --backend --initial-pid=5836 --install --import-browser-data=1 --enable-stats=1 --enable-installer-stats=1 --launchopera=0 --installfolder="C:\Users\Lamija pc\AppData\Local\Programs\Opera" --profile-folder --language=en --setdefaultbrowser=0 --startmenushortcut=1 --desktopshortcut=0 --quicklaunchshortcut=1 --pintotaskbar=0 --server-tracking-data=server_tracking_data --install-subfolder=56.0.3051.99 --package-dir="C:\Users\LAMIJA~1\AppData\Local\Temp\opera autoupdate\CUsersLamija pcAppDataLocalProgramsOpera\installing" --inside-package --session-guid=4d9545bf-f9c7-46e7-99f7-ad4a5e820ce2 --autoupdate --silent
+[1108/212833.048:INFO:installer_main.cc(432)] Install folder from command line: C:\Users\Lamija pc\AppData\Local\Programs\Opera
+[1108/212833.048:INFO:installer_main.cc(435)] Uninstall:0
+[1108/212833.048:INFO:installer_main.cc(436)] Silent:1
+[1108/212833.048:INFO:installer_main.cc(437)] Run Immediately0
+[1108/212833.048:INFO:installer_main.cc(439)] Backend1
+[1108/212833.048:INFO:installer_main.cc(440)] Inside package1
+[1108/212833.048:INFO:installer_main.cc(441)] Autoupdate:1
+[1108/212833.051:INFO:resource_l10n_handler.cc(101)] Language not in the available languages list: 
+[1108/212833.051:INFO:resource_l10n_handler.cc(107)] Trying language from system preferred list: en-US
+[1108/212833.051:INFO:resource_l10n_handler.cc(150)] Retrying after adjustments: en-US
+[1108/212833.051:INFO:resource_l10n_handler.cc(107)] Trying language from system preferred list: en
+[1108/212833.177:INFO:settings_impl.cc(1167)] Install folder set: C:\Users\Lamija pc\AppData\Local\Programs\Opera
+[1108/212833.177:INFO:settings_impl.cc(1222)] Operation: 2
+[1108/212833.177:INFO:installer.cc(153)] Beginning installation
+[1108/212833.178:INFO:installer.cc(437)] Write privileges for install folder: 1
+[1108/212833.310:INFO:installer_steps.cc(653)] Removing installed files.
+[1108/212839.346:INFO:delete_file_step.cc(31)] Deleting file C:\Users\Lamija pc\AppData\Local\Programs\Opera\56.0.3051.99\files_list
+[1108/212839.353:INFO:delete_file_step.cc(31)] Deleting file C:\Users\Lamija pc\AppData\Local\Programs\Opera\56.0.3051.99\root_files_list
+[1108/212839.361:INFO:installer_steps.cc(742)] Removing old files from installation root
+[1108/212840.240:INFO:installer_steps.cc(772)] Cleaning up registry
+[1108/212840.299:INFO:installer_steps.cc(193)] Setting up the registry
+[1108/212840.358:INFO:update_shortcuts_step.cc(145)] Updating shortcuts
+[1108/212840.680:INFO:installer_steps.cc(279)] Writing installer prefs toC:\Users\Lamija pc\AppData\Local\Programs\Opera\installer_prefs.json
+[1108/212840.685:INFO:installer_steps.cc(976)] Preserving previous installer status.
+[1108/212840.690:INFO:installer_steps.cc(390)] Installing Components
+[1108/212840.695:INFO:protocol_handler_setup_impl.cc(42)] Setting up file handlers for the current user.
+[1108/212840.717:INFO:installer_steps.cc(570)] Creating scheduled task
+[1108/212842.354:INFO:installer.cc(659)] Finalizing successful installation
+[1108/212842.355:INFO:installer.cc(977)] Installation succeeded
+[1108/212842.355:INFO:backend_process_installer_runner_impl.cc(136)] Installer backend exiting
